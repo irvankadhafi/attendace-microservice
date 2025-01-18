@@ -1,0 +1,12 @@
+[submodule "backend/auth-service"]
+	path = backend/auth-service
+	url = https://github.com/irvankadhafi/auth-service.git
+[submodule "backend/atttendance-service"]
+	path = backend/atttendance-service
+	url = https://github.com/irvankadhafi/attendance-service
+[submodule "backend/employee-service"]
+	path = backend/employee-service
+	url = https://github.com/irvankadhafi/employee-service
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/irvankadhafi/attendance-frontend
